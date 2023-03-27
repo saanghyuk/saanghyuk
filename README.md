@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saanghyuk
 - 👀 I’m interested in statistics, data science, and machine learning. 
-- 🌱 I’m currently learning dart, flutter, and nodejs. 
+- 🌱 I’m currently learning dart, flutter, nodejs, and kotlin. 
 - 💞️ I’m looking to collaborate on cross-platform projects with flutter. 
 
 <!---
